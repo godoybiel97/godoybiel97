@@ -15,7 +15,7 @@ Bons estudos !
 <br/>
 
 <div style="display: inline_block">
-  <a href="mailto:godoybiel97@gmail.com" target="_blank"> <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> </a>
+  <a href="mailto:godoybiel97@gmail.com?subject=subject text" target="_blank"> <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> </a>
   <a href="https://wa.me/5511952773857" target="_blank"> <img align="center" alt="whatsapp" target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"     target="_blank"/> </a>
   <a href="https://www.linkedin.com/in/gabriel-godoy-45ba83207/" target="_blank"> <img align="center" alt="linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
   <a href="https://github.com/godoybiel97" target="_blank"> <img align="center" alt="github" target="_blank" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> </a>
