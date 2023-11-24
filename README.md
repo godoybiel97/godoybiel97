@@ -32,10 +32,8 @@ Minhas stacks estão relacionadas ao meu dia-a-dia de trabalho e rotina de estud
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img align="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img align="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
@@ -45,8 +43,8 @@ Minhas stacks estão relacionadas ao meu dia-a-dia de trabalho e rotina de estud
 # MINHAS STATS E LINGUAGENS
 
 <div>
-  <img height="180em" width="500em" alt="estatisticas" src="https://github-readme-stats.vercel.app/api?username=godoybiel97&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" width="500em" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godoybiel97&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="300em" alt="estatisticas" src="https://github-readme-stats.vercel.app/api?username=godoybiel97&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" width="300em" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godoybiel97&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br/>
 
