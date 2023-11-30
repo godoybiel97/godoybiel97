@@ -2,7 +2,7 @@
   <img alt="Front-end" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/01/front-end-banner.jpg.webp"/>
 </div>
 
-# DESENVOLVEDOR FRONT-END JUNIOR
+# Desenvolvedor Front-End Junior
 ### Seja bem-vindo ao meu repositório !   
 
 Meu nome é Gabriel Godoy, mas sou conhecido somente por Godoy. Sou natural de Mogi das Cruzes - SP, adoro tecnologia e sou apaixonado por futebol !   
@@ -24,7 +24,7 @@ Bons estudos !
 <br/>
 
 
-# MINHAS STACKS
+# Minhas Stacks
 Minhas stacks estão relacionadas ao meu dia-a-dia de trabalho e rotina de estudos, algumas com mais frequência e outras nem tanto:   
 
 <div style="display: inline_block">
@@ -40,12 +40,24 @@ Minhas stacks estão relacionadas ao meu dia-a-dia de trabalho e rotina de estud
 <br/>
 
 
-# MINHAS STATS E LINGUAGENS
+# Minhas Stats e Linguagens
 
 <div>
   <img height="180em" alt="estatisticas" src="https://github-readme-stats.vercel.app/api?username=godoybiel97&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godoybiel97&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br/>
+
+
+# Visitantes
+Olá, caro visitante ! Caso tenha interesse em contribuir ou tirar alguma dúvida, entre em contato pelos endereços acima. Obrigado pela visita !
+
+<div align="center">
+  <h3><b>Contagem de visitantes</b></h3>
+</div>
+
+<div align="center">
+  <img alt="visitantes" src="https://profile-counter.glitch.me/godoybiel97/count.svg"/>
+</div>
 
 
