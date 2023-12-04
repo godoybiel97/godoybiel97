@@ -1,6 +1,4 @@
-<div align="center">
-  <img alt="Front-end" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/01/front-end-banner.jpg.webp"/>
-</div>
+<img alt="Front-end" width="100%" height="375px" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/01/front-end-banner.jpg.webp"/>
 
 # Desenvolvedor Front-End Junior
 ### Seja bem-vindo ao meu repositório !   
@@ -42,9 +40,9 @@ Minhas stacks estão relacionadas ao meu dia-a-dia de trabalho e rotina de estud
 
 # Minhas Stats e Linguagens
 
-<div>
-  <img height="180em" alt="estatisticas" src="https://github-readme-stats.vercel.app/api?username=godoybiel97&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godoybiel97&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <img width="49%" height="195px" alt="estatisticas" src="https://github-readme-stats.vercel.app/api?username=godoybiel97&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&theme=dracula&include_all_commits=true"/>
+  <img width="41%" height="195px" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godoybiel97&layout=compact&title_color=80F7D4&text_color=fff9&bg_color=0d1117&border_color=fff0&langs_count=16&theme=dracula"/>
 </div>
 <br/>
 
